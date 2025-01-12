@@ -122,3 +122,14 @@ hometbx
             "url": "http://xhww.fun/小米/DEMO.json",
             "name": "🧇小米"
         },
+
+        
+	{
+        	"url": "http://tv.nxog.top/m/",
+        	"name": " 🦹‍♂️欧歌"
+    	},
+     ,
+	{
+        	"url": "https://d.kstore.dev/download/7213/吃猫的鱼",
+        	"name": "🐠吃猫的鱼"
+    }
